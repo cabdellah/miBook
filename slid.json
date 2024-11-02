@@ -1,0 +1,33 @@
+{
+  "msg": "success",
+  "data": [
+    {
+      "id": 1,
+      "title": "Welcome",
+      "desc": "Reference site about Lorem Ipsum, giving information on its origins",
+      "image": "https://raw.githubusercontent.com/App-liv/book/refs/heads/main/ads/1.jpg",
+      "site": "https://www.youtube.com/"
+    },
+    {
+      "id": 2,
+      "title": "Welcome",
+      "desc": "Reference site about Lorem Ipsum, giving information on its origins",
+      "image": "https://raw.githubusercontent.com/App-liv/book/refs/heads/main/ads/2.jpg",
+      "site": "https://www.youtube.com/"
+    },
+    {
+      "id": 3,
+      "title": "Welcome",
+      "desc": "Reference site about Lorem Ipsum, giving information on its origins",
+      "image": "https://raw.githubusercontent.com/App-liv/book/refs/heads/main/ads/3.jpg",
+      "site": "https://www.youtube.com/"
+    },
+    {
+      "id": 4,
+      "title": "Welcome",
+      "desc": "Reference site about Lorem Ipsum, giving information on its origins",
+      "image": "https://raw.githubusercontent.com/App-liv/book/refs/heads/main/ads/4.jpg",
+      "site": "https://www.youtube.com/"
+    }
+  ]
+}
